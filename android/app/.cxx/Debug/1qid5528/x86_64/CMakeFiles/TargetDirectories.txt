@@ -1,0 +1,2 @@
+D:/working_flutter_project/vocal_emotion_app/android/app/.cxx/Debug/1qid5528/x86_64/CMakeFiles/edit_cache.dir
+D:/working_flutter_project/vocal_emotion_app/android/app/.cxx/Debug/1qid5528/x86_64/CMakeFiles/rebuild_cache.dir

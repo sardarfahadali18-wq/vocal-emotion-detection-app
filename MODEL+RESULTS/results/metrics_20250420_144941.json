@@ -1,0 +1,13 @@
+{
+    "accuracy": 0.901037174721,
+    "precision": 0.891938661658629,
+    "recall": 0.891710037174721,
+    "f1": 0.90655479675858,
+    "training_params": {
+        "feature_type": "mfcc",
+        "sample_rate": 16000,
+        "duration": 3.0,
+        "n_mfcc": 40
+    },
+    "timestamp": "20250420_144941"
+}

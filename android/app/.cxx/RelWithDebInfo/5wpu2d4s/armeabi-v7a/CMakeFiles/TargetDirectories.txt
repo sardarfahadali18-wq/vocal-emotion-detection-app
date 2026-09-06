@@ -1,0 +1,2 @@
+D:/delivert/FIREBASE-CONNECTED/working_flutter_project/vocal_emotion_app/android/app/.cxx/RelWithDebInfo/5wpu2d4s/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/delivert/FIREBASE-CONNECTED/working_flutter_project/vocal_emotion_app/android/app/.cxx/RelWithDebInfo/5wpu2d4s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
